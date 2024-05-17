@@ -1,4 +1,4 @@
-### NAME : Migal G Arunadann  
+### NAME : Migal G Arunadann
 ### REG NO : 212222110025
 
 # EXPERIMENT 4 Monitoring light intensity using LDR and uploading the data in the cloud using an IoT controller
